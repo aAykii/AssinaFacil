@@ -1,0 +1,1 @@
+revoke all on function public.enforce_free_plan_limit() from public, anon, authenticated;
